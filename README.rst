@@ -1,15 +1,18 @@
 =========
-myproject
+Final Project: qPCR Math
 =========
 
 
-Add a short description here!
+A new and improved way to finish your qPCR calculations.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Many of us have had experience downloading qPCR data and crunching
+the numbers in excel, but this code aims to eliminate that task by
+performing all the math for you as well as outputting graphs and dataframes.
+
 
 
 Note
